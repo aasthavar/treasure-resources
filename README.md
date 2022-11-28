@@ -1,5 +1,5 @@
 # My treasure-resources
-This repository is a collections of famous books, cheatsheets etc for people who are share interests or love to learn programming.
+This repository is a collections of famous books, cheatsheets etc for people who share interests or love to learn programming.
 
 1. [Deep learning with Python](https://github.com/aasthavar/treasure-resources/blob/main/deep-learning-with-python.pdf)
 2. [Hands-On Machine Learning with Scikit-learn and Tensorflow](https://github.com/aasthavar/treasure-resources/blob/main/hadson-machinelearning-with-scikit-learn-tensorflow.pdf)
